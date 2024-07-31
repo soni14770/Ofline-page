@@ -88,7 +88,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3" AYUSHIII IINSIIDE 🖤</h1>
+    <h1 class="mb-3"> AYUSHIII IINSIIDE 🖤</h1>
   </header>
 
   <div class="container">
