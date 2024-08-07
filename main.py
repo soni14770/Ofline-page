@@ -54,7 +54,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ayushii dwn ❤️</title>
+  <title>Ruhii dwn ❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -88,7 +88,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3"> AYUSHIII IINSIIDE 🖤</h1>
+    <h1 class="mb-3"> RUHI IINSIIDE 🖤</h1>
   </header>
 
   <div class="container">
@@ -118,7 +118,7 @@ def send_message():
   </div>
   <footer class="footer" style="color: red;">
     <p>&copy; 😈 ALL RUL3X CHOD 😈 </p>
-    <p>🥀 SONII IINSIIDE 🥀</p>
+    <p>🥀 RUHI IINSIIDE 🥀</p>
     <p>ENJOY SERVER  <a href="https://github.com/zeeshanqureshi0</a></p>
   </footer>
 </body>
@@ -127,6 +127,6 @@ def send_message():
 
 
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 8080))
+    port = int(os.environ.get('PORT', 6060))
     app.run(host='0.0.0.0', port=port)
     app.run(debug=True)
